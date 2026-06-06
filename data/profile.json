@@ -1,0 +1,183 @@
+{
+  "name": {
+    "first": "K.DURGA",
+    "last": "MANIKANTA",
+    "full": "K. Durga Manikanta",
+    "signature": "KDM"
+  },
+  "email": "kdmvisuals@gmail.com",
+  "tagline": "Crafting premium visual media, graphic designs, and digital experiences.",
+  "description": "B.Tech Computer Science student at SRM University-AP, specializing in graphic design, high-end video editing, and media operations.",
+  "roles": {
+    "short": "Creative Designer & Editor",
+    "detailed": "Media Manager Head | Graphic Designer | Video Editor"
+  },
+  "location": {
+    "based": "Ravulapalem, India",
+    "availability": "Remote / Hybrid"
+  },
+  "available": true,
+  "bio": "Undergraduate B.Tech Computer Science & Engineering student at SRM University-AP with a strong focus on media handling, graphic design, and digital content creation. Serving as Media Manager Head for CONNECT SRM AP and Graphic Designer for Microsoft Student Community (MSC), leading creative teams, managing social channels, and delivering high-quality video and design campaigns.",
+  "stats": [
+    { "value": "4+", "label": "Years in Media" },
+    { "value": "3+", "label": "Key Portfolios" },
+    { "value": "4+", "label": "Active Roles" }
+  ],
+  "skills": [
+    "Adobe Photoshop",
+    "Canva",
+    "Adobe Illustrator",
+    "Adobe Premiere Pro",
+    "CapCut",
+    "Content Creation",
+    "Social Media",
+    "Branding",
+    "Video Editing",
+    "Color Grading",
+    "Sound Design",
+    "HTML/CSS",
+    "JavaScript",
+    "Team Leadership"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Media Manager Head",
+      "company": "CONNECT SRM AP",
+      "companyShort": "CONNECT SRM AP",
+      "type": "Lead Role",
+      "location": "Amaravati, India",
+      "period": "2024",
+      "periodEnd": "Present",
+      "bullets": [
+        "Lead the media and content creation team for campus events, digital campaigns, and promotions.",
+        "Manage end-to-end social media content, creative posters, and high-impact video promotions.",
+        "Ensure brand consistency, design guidelines, and message alignment across all digital and physical channels."
+      ],
+      "desc": "Leading media operations, promotions, and brand design for university student community.",
+      "tech": ["Branding", "Social Media", "Video Promotion", "Team Leadership", "Canva", "Photoshop"]
+    },
+    {
+      "id": 2,
+      "role": "Graphic Designer",
+      "company": "Microsoft Student Community (MSC)",
+      "companyShort": "MSC",
+      "type": "Community Role",
+      "location": "Amaravati, India",
+      "period": "2024",
+      "periodEnd": "Present",
+      "bullets": [
+        "Design eye-catching posters, banners, and social media creatives for technical events and bootcamps.",
+        "Create engaging promotional visuals to increase student turnout and online community engagement.",
+        "Collaborate with marketing and technical teams to maintain visual excellence and brand guidelines."
+      ],
+      "desc": "Designing visual promotional materials and event assets for the Microsoft Student Community.",
+      "tech": ["Graphic Design", "Illustrator", "Photoshop", "Event Branding", "Collaboration"]
+    },
+    {
+      "id": 3,
+      "role": "Freelance Graphic Designer & Video Editor",
+      "company": "Freelance Services",
+      "companyShort": "FREELANCE",
+      "type": "Self-employed",
+      "location": "Remote",
+      "period": "2022",
+      "periodEnd": "Present",
+      "bullets": [
+        "Deliver professional design and high-end video editing services to online and offline clients.",
+        "Design logos, brand identities, posters, banners, and promotional marketing materials.",
+        "Edit highly engaging short-form and long-form video content for YouTube, Reels, and social media."
+      ],
+      "desc": "Freelance creative services delivering custom logos, marketing assets, and engaging video edits.",
+      "tech": ["Premiere Pro", "CapCut", "Photoshop", "Logo Design", "Video Editing", "Branding"]
+    },
+    {
+      "id": 4,
+      "role": "Graphic Designer & Video Editor",
+      "company": "Digital Agencies / Studio Work",
+      "companyShort": "STUDIO WORK",
+      "type": "Contract",
+      "location": "India",
+      "period": "2022",
+      "periodEnd": "2024",
+      "bullets": [
+        "Worked in studio environments on real client projects delivering print and digital creative assets.",
+        "Performed video editing tasks, background enhancements, cuts, transitions, and color correction.",
+        "Assisted senior designers and art directors in branding and content production workflows."
+      ],
+      "desc": "Agency and studio-based design and video post-production support for client marketing campaigns.",
+      "tech": ["Video Editing", "Color Grading", "Background Enhancement", "Photoshop", "Premiere Pro"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Creative Design Portfolio",
+      "subtitle": "Graphic Design & Branding",
+      "type": "Visual Arts",
+      "link": "https://kdmvisuals.com",
+      "image": "/assets/project-artgenio2.jpg",
+      "tech": ["Photoshop", "Illustrator", "Canva", "Branding", "Layout Design"],
+      "desc": "A curated collection of graphic design and branding works showcasing modern, engaging, and user-friendly visuals designed for various organizations and clients."
+    },
+    {
+      "id": 2,
+      "title": "Social Media Content Projects",
+      "subtitle": "Engagements & Campaigns",
+      "type": "Media Management",
+      "link": "https://www.instagram.com/mani_naidu_1319_",
+      "image": "/assets/project-easyfolio2.jpg",
+      "tech": ["Social Media Marketing", "Content Creation", "Graphic Design", "Analytics"],
+      "desc": "Visual design and content coordination for student communities and digital channels, focused on driving engagement, clicks, and active sign-ups."
+    },
+    {
+      "id": 3,
+      "title": "Video Editing Portfolio",
+      "subtitle": "Cinematic Edits & Reels",
+      "type": "Video Production",
+      "link": "https://github.com/DurgaManikanta1319",
+      "image": "/assets/project-timeline-v1.jpg",
+      "tech": ["Premiere Pro", "CapCut", "Sound Design", "Color Grading", "Motion Graphics"],
+      "desc": "Short-form and long-form video edits optimized for social platforms, utilizing dynamic transitions, keyframing, color grading, and sound synchronization."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Creative Design Portfolio",
+      "platform": "KdmVisuals.com",
+      "year": "2024",
+      "link": "https://kdmvisuals.com",
+      "desc": "An online platform showcasing high-end graphic design, banners, and layout designs created for events and corporate branding."
+    },
+    {
+      "id": 2,
+      "title": "Social Media Campaigns",
+      "platform": "Instagram",
+      "year": "2024",
+      "link": "https://www.instagram.com/mani_naidu_1319_",
+      "desc": "A collection of design and video content created to boost social media engagement and maintain brand consistency."
+    },
+    {
+      "id": 3,
+      "title": "CONNECT SRM AP Media",
+      "platform": "Lead Projects",
+      "year": "2024",
+      "link": "https://github.com/DurgaManikanta1319",
+      "desc": "Media promotions, video editing, and content leadership for official university events and community drives."
+    },
+    {
+      "id": 4,
+      "title": "Microsoft Student Community Assets",
+      "platform": "Microsoft Student Community",
+      "year": "2024",
+      "link": "https://www.linkedin.com/in/kali-durga-manikanta-76a0293aa/",
+      "desc": "Design collaterals and event promos crafted to optimize brand outreach and student event participation."
+    }
+  ],
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/DurgaManikanta1319" },
+    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/kali-durga-manikanta-76a0293aa/" },
+    { "label": "Instagram", "href": "https://www.instagram.com/mani_naidu_1319_" }
+  ]
+}

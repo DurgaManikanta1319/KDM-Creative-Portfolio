@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "CREATIVE PORTFOLIO"
+  },
+  "hero": {
+    "taglineHighlight": "Media & Design",
+    "freelanceNote": "Open to media manager, graphic design, video editing, and digital content creation roles.",
+    "availableLabel": "Available for projects & roles",
+    "pills": ["Media Manager", "Graphic Designer", "Video Editor", "CSE Student"],
+    "specialistStat": { "value": "Media + Design", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["Years in\nmedia", "Creative\nprojects", "Active\nroles"]
+  },
+  "footer": {
+    "eyebrow": "Available for media, design, & video projects",
+    "ctaLines": ["Creating stunning", "visual experiences"],
+    "ctaAccent": "impactful."
+  }
+}
